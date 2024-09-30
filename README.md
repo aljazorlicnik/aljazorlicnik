@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aljazorlicnik&label=Profile%20views&color=0e75b6&style=flat" alt="aljazorlicnik" /> </p>
 
-- 🔭 I’m currently working on [a League of legends api](https://lol.aljazorli.eu)
+- 🔭 I’m currently working on [a League of legends stats website using the RIOT Games API](https://lol.aljazorli.eu)
 
 - 🌱 I’m currently learning **JavaScript, React.JS**
 
